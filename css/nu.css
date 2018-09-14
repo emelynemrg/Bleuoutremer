@@ -1,0 +1,201 @@
+/* Un */
+
+.nubleu1
+{
+	   animation: redBox 2s ease-in-out ;
+     animation-fill-mode: forwards;
+}
+
+@keyframes redBox {
+  from {
+    transform: translate(-500px,-800px);
+  }	
+  to {
+  	transform: translate(0);
+  }
+}
+
+
+/* Deux */
+
+.nubleu2
+{
+     animation: redBox2 2s ease-in-out ;  
+     animation-fill-mode: forwards;  
+}
+
+@keyframes redBox2 {
+  from {
+    transform: translate(-300px,800px);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Trois */
+
+.nubleu3
+{
+     animation: redBox3 2s ease-in-out ;  
+     animation-fill-mode: forwards;  
+}
+
+@keyframes redBox3 {
+  from {
+    transform: translate(100px,-800px);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Quatre */
+
+.nubleu4
+{
+     animation: redBox4 2s ease-in-out ;  
+     animation-fill-mode: forwards;  
+}
+
+@keyframes redBox4 {
+  from {
+    transform: translate(-100px,-800px);
+  }
+  
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Cinq */
+
+.nubleu5
+{
+     animation: redBox5 2s ease-in-out ;  
+     animation-fill-mode: forwards;  
+}
+
+@keyframes redBox5 {
+  from {
+    transform: translate(-100px,800px);
+  }
+  
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Six */
+
+.nubleu6
+{
+     animation: redBox6 2s ease-in-out ;  
+     animation-fill-mode: forwards;  
+}
+
+@keyframes redBox6 {
+  from {
+    transform: translate(-100px,800px);
+  }
+  
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Sept */
+
+.nubleu7
+{
+     animation: redBox7 2s ease-in-out ;  
+     animation-fill-mode: forwards;  
+}
+
+@keyframes redBox7 {
+  from {
+    transform: translate(200px,800px);
+  }
+  
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Huit */
+
+.nubleu8
+{
+     animation: redBox8 2s ease-in-out ;  
+     animation-fill-mode: forwards;  
+}
+
+@keyframes redBox8 {
+  from {
+    transform: translate(200px,800px);
+  }
+  
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Neuf */
+
+.nubleu9
+{
+     animation: redBox9 2s ease-in-out ;  
+     animation-fill-mode: forwards;  
+}
+
+@keyframes redBox9 {
+  from {
+    transform: translate(1000px,0px);
+  }
+  
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Neuf */
+
+.nubleu9
+{
+     animation: redBox9 2s ease-in-out ;  
+     animation-fill-mode: forwards;  
+}
+
+@keyframes redBox9 {
+  from {
+    transform: translate(1000px,0px);
+  }
+  
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Dix */
+
+.nubleu10
+{
+     animation: redBox10 2s ease-in-out ;  
+     animation-fill-mode: forwards;  
+}
+
+@keyframes redBox10 {
+  from {
+    transform: translate(-1000px,-1000px);
+  }
+  
+  to {
+    transform: translateX(0);
+  }
+}
+
+
+
+
+
+
